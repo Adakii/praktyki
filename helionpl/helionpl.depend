@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676839828 source:c:\users\adrian\desktop\c++\helionpl\main.cpp
+	<iostream>
+	<fstream>
+	<regex>
+
